@@ -1,2 +1,2 @@
-export * from './environment';
-export * from './app.component';
+export {environment} from './environment';
+export {ServicesDiAppComponent} from './services-di.component';
